@@ -34,6 +34,9 @@ Queries of the Project:
     
 Usage:
 •	Clone the repository.
-•	Ensure PostgreSQL is installed.
+•	Ensure PostgreSQL and pgAdmin4 is installed.
 •	Import the dataset provided.
 •	Execute SQL queries to gain insights.
+
+you can Watch this for Installation of PostgreSQL and pgAdmin4  :
+https://www.youtube.com/watch?v=0n41UTkOBb0&pp=ygU0aG93IHRvIGluc3RhbGwgcG9zdGdyZXNxbCBhbmQgcGdhZG1pbjQgb24gd2luZG93cyAxMA%3D%3D
